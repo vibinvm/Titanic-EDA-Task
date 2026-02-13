@@ -26,3 +26,4 @@ To analyze the Titanic dataset using statistics and visualization techniques.
 
 ## Conclusion
 EDA helped understand patterns, trends, and relationships in the dataset before modeling.
+
